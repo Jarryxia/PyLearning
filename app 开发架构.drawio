@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T18:46:39.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 Edg/86.0.622.38" etag="92WwzDFTOGhapEHAkz-q" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T18:47:18.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36 Edg/86.0.622.38" etag="sqhlO6OtJ1CBWRahIRxz" version="13.8.0" type="github">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
-    <mxGraphModel dx="865" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="-223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -16,32 +16,8 @@
         <mxCell id="Wlu_TrrvpK5Pyz7r_KfD-1" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.data_file;" vertex="1" parent="1">
           <mxGeometry x="900" y="1446.62" width="80" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Wlu_TrrvpK5Pyz7r_KfD-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.file_2;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="620" width="47.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Wlu_TrrvpK5Pyz7r_KfD-3" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.script_file" vertex="1" parent="1">
-          <mxGeometry x="250" y="770" width="47" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Wlu_TrrvpK5Pyz7r_KfD-4" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.file_server;" vertex="1" parent="1">
-          <mxGeometry x="140" y="540" width="45" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="Wlu_TrrvpK5Pyz7r_KfD-5" value="Cloud" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.cloud;" vertex="1" parent="1">
-          <mxGeometry x="580" y="380" width="120" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="Wlu_TrrvpK5Pyz7r_KfD-6" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" vertex="1" parent="1">
           <mxGeometry x="1085" y="2090" width="180" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="Wlu_TrrvpK5Pyz7r_KfD-7" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="290" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Wlu_TrrvpK5Pyz7r_KfD-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cloud-72/64/big-data-analysis-input-server-run-cloud-128.png" vertex="1" parent="1">
-          <mxGeometry x="1150" y="480" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="Wlu_TrrvpK5Pyz7r_KfD-9" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="560" y="680" width="65" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Wlu_TrrvpK5Pyz7r_KfD-10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/containers/App_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="697" y="790" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="Wlu_TrrvpK5Pyz7r_KfD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wlu_TrrvpK5Pyz7r_KfD-11">
           <mxGeometry relative="1" as="geometry">
@@ -50,12 +26,6 @@
         </mxCell>
         <mxCell id="Wlu_TrrvpK5Pyz7r_KfD-11" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/user.svg;" vertex="1" parent="1">
           <mxGeometry x="260.46" y="1394.77" width="79.07" height="213.7" as="geometry" />
-        </mxCell>
-        <mxCell id="Wlu_TrrvpK5Pyz7r_KfD-12" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="860" y="410" width="45.6" height="61.800000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="Wlu_TrrvpK5Pyz7r_KfD-13" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="860" y="410" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
         <mxCell id="Wlu_TrrvpK5Pyz7r_KfD-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wlu_TrrvpK5Pyz7r_KfD-14">
           <mxGeometry relative="1" as="geometry">
@@ -101,9 +71,6 @@
         </mxCell>
         <mxCell id="Wlu_TrrvpK5Pyz7r_KfD-28" value="添加应用" style="text;html=1;strokeColor=#6F0000;fillColor=#a20025;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="750" y="1470" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Wlu_TrrvpK5Pyz7r_KfD-29" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="770" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Wlu_TrrvpK5Pyz7r_KfD-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.591;entryY=1.142;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Wlu_TrrvpK5Pyz7r_KfD-31" target="Wlu_TrrvpK5Pyz7r_KfD-24">
           <mxGeometry relative="1" as="geometry" />
